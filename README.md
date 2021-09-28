@@ -7,5 +7,4 @@
   2.2获取随机壁纸并合成天气信息,自动设置为壁纸  
 
 
-<img width=600 height=400 src="https://github.com/kerojiang/Weather-Wallpaper/blob/main/%E6%88%AA%E5%B1%8F-20210928122036-1919x1079.png"/>
-[截图](https://github.com/kerojiang/Weather-Wallpaper/blob/main/%E6%88%AA%E5%B1%8F-20210928122036-1919x1079.png)
+<img width=800 height=600 title="weather-wallpaper" src="https://github.com/kerojiang/Weather-Wallpaper/blob/main/%E6%88%AA%E5%B1%8F-20210928122036-1919x1079.png"/>
